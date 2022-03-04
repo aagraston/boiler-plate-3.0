@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/aagraston/boiler-plate-3.0#readme",
   "devDependencies": {
+    "@babel/core": "^7.17.5",
+    "@babel/preset-env": "^7.16.11",
+    "babel-loader": "^8.2.3",
+    "css-loader": "^6.6.0",
     "eslint": "^8.10.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-config-prettier": "^8.5.0",
@@ -27,6 +31,7 @@
     "prettier": "^2.5.1",
     "sass": "^1.49.9",
     "sass-loader": "^12.6.0",
+    "style-loader": "^3.3.1",
     "webpack": "^5.70.0",
     "webpack-cli": "^4.9.2"
   }
